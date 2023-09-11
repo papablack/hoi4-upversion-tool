@@ -1,0 +1,9 @@
+{
+    "name": "hoi4-mod-upversion",
+    "version": "0.0.1",
+    "dependencies": {
+        "chalk": "^4.1.2",
+        "dotenv": "^16.3.1",
+        "glob": "^10.3.4"
+    }
+}
